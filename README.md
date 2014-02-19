@@ -1,2 +1,2 @@
-AngularJS full package - 1.2.0-rc.3
+AngularJS full package - 1.2.13
 ================
